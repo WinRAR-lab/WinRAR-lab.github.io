@@ -1,0 +1,3 @@
+host: winrar-lab.github.io
+
+Sitemap: https://winrar-lab.github.io/sitemap.xml
